@@ -1,0 +1,15 @@
+1) Adding clouds movements near red building 
+2) Changing the Font and Text appearance 
+3) Updating the correct number of Events and removing unnecessary ones
+4) Chair alignment problem in Master Class Event
+5) Updating the event names in Prodigy 
+6) The same chair alignment problem in CodeHer Event T
+7) Modifying the teams section with new theme
+8) Contact Us Modifications
+9) The final loop back to red building
+10) General Optimization things that we need to do for feasibility 
+
+
+11) Removing the silent radio button at the nav bar 
+12) Updating the Prodigy Reg form 
+13) Updating the favicon.WW
